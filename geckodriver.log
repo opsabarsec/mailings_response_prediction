@@ -1,0 +1,30 @@
+1616621843375	geckodriver	INFO	Listening on 127.0.0.1:51079
+1616621844386	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYyWRdX"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:27851): GLib-GObject-CRITICAL **: 22:37:25.162: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:27872): GLib-GObject-CRITICAL **: 22:37:25.272: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616621845824	Marionette	INFO	Listening on port 45981
+1616621845910	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:27953): GLib-GObject-CRITICAL **: 22:37:26.130: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:27996): GLib-GObject-CRITICAL **: 22:37:26.518: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616621851642	Marionette	INFO	Stopped listening on port 45981
+1616621914143	geckodriver	INFO	Listening on 127.0.0.1:53339
+1616621915150	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSIgw5Y"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:28101): GLib-GObject-CRITICAL **: 22:38:35.875: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:28122): GLib-GObject-CRITICAL **: 22:38:36.002: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616621916645	Marionette	INFO	Listening on port 39237
+1616621916670	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:28201): GLib-GObject-CRITICAL **: 22:38:36.880: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:28245): GLib-GObject-CRITICAL **: 22:38:37.264: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616621922368	Marionette	INFO	Stopped listening on port 39237
