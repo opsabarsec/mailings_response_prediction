@@ -12,10 +12,7 @@ This can help them with:
     1. Competitive pricing.
     2. Targeting customers.
     3. Decision making.
-    4. Making better strategies.
-    
 
-- estimate the timespan for the ML classification pipeline and offer to Olist a reasonable maintenance contract.
 
 ## 2. The data
 
