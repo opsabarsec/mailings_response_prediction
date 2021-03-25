@@ -40,7 +40,7 @@ The ideal resident with highest response probability should be :
 - 60-70 years old
 - earning 150k / year
 - living in the rural area of a specific region/state
-- have an active lifestyle
+- having an active lifestyle
 
 
 Python code can be found in the following Jupyter notebooks:
